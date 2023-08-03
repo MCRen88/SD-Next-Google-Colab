@@ -5,3 +5,8 @@ https://github.com/jexom/sd-webui-depth-lib
 https://github.com/kohya-ss/sd-webui-additional-networks
 https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/Mikubill/sd-webui-controlnet/
+https://github.com/Akegarasu/sd-webui-model-converter
+https://github.com/s0md3v/sd-webui-roop
+https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen
+https://github.com/hako-mikan/sd-webui-supermerger
+https://github.com/ashen-sensored/sd_webui_SAG
